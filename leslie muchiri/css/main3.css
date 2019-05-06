@@ -1,0 +1,88 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+.kihara{
+	background-color: coral;
+	width: 1000px;
+	height: 1200px;
+	padding: 20px;
+	margin: 10px 5px;
+	border: 5px solid crimson;
+
+
+	color: black;
+	overflow: auto;
+
+
+	
+}	
+
+h1{
+		background-color: white;
+	width: 400px;
+	height: 20px;
+	padding: 20px;
+	margin: 10px 5px;
+	border: 5px solid white;
+
+
+
+}
+.edna{
+	align-content: top right;
+	margin-bottom: 40px;
+}
+
+
+p{
+	font-weight: bold;
+	text-align: left;
+}
+
+
+.life{
+	background-color: white;
+	width: 900px;
+	height: 20px;
+	padding: 20px;
+	margin: 10px 5px;
+	border: 5px solid white;
+
+}
+
+h2{	background-color: white;
+	width: 600px;
+	height: 20px;
+	padding: 20px;
+	margin: 10px 5px;
+	border: 5px solid white;
+
+}
+
+img{
+	margin: 10px;
+	float: left;
+
+
+}
+.chairman{
+	width: 800px;
+}
+
+
+
+
+
+
+
+
